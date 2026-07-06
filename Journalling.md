@@ -50,4 +50,16 @@ I'll do the routing tomorrow.
 
 I've been going through the chats again, and my keeb really does seem too simple. It's just a plain old boring 60% keyboard, without any cool mods. But then, I don't even know what I want to make - a corne split keyboard (like Joe Scooto)? Or do I add a rotary encoder (I feel bad about that now), or Bluetooth, or even LED lights? idk... I'll research a bit.
 
+# PCB Design
 
+## 7.00 p.m. 
+
+I've been editing the sizes of the keys, and this is what I've ended up with! Each row is 14.5 units long, and each column is 5 units long. Now finally, it all fits on the Pi Pico.
+
+<img width="1288" height="484" alt="Screenshot 2026-07-06 at 7 56 05 PM" src="https://github.com/user-attachments/assets/5b7af2c2-f65c-4d51-9b06-afbd592d2286" />
+
+I edited the rows and columns too, so I can add the arrow keys (and the right shift), and I've removed the superfluous stabilisers - so now I have only 3! (I was getting worried about that).
+
+<img width="1788" height="1120" alt="Screenshot 2026-07-06 at 7 50 58 PM" src="https://github.com/user-attachments/assets/67e04894-206e-4d3f-b201-e7b39d0bd110" />
+
+The Slack chat absolutely rocks - now I'm using 19.05mm grids and that's soo much better :). And I'm going to use <a href = "https://github.com/adamws/kicad-kbplacer">this</a> plugin to place the diodes.
