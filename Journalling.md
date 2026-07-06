@@ -62,4 +62,4 @@ I edited the rows and columns too, so I can add the arrow keys (and the right sh
 
 <img width="1788" height="1120" alt="Screenshot 2026-07-06 at 7 50 58 PM" src="https://github.com/user-attachments/assets/67e04894-206e-4d3f-b201-e7b39d0bd110" />
 
-The Slack chat absolutely rocks - now I'm using 19.05mm grids and that's soo much better :). And I'm going to use <a href = "https://github.com/adamws/kicad-kbplacer">this</a> plugin to place the diodes.
+The Slack chat absolutely rocks - now I'm using 19.05mm x 4.7625mm grids and that's soo much better :). And I'm going to use <a href = "https://github.com/adamws/kicad-kbplacer">this</a> plugin to place the diodes.
