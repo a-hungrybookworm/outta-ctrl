@@ -1,3 +1,22 @@
+# Final Touches 
+
+## 5.30 p.m.
+
+I designed the keycap covers and *another* keyboard layout, with less switches on the bottom row cause I don't even think they're needed.
+
+<img width="3066" height="954" alt="keyboard-layout6" src="https://github.com/user-attachments/assets/be817736-899a-412f-b7db-6ff0d0ee0539" />
+
+## 6.00 p.m.
+Updated schematic and pcb layout.
+
+<img width="1292" height="706" alt="Schematic_idk" src="https://github.com/user-attachments/assets/95da6ae8-050a-4e0c-8f9e-c86b718c7220" />
+
+<img width="1857" height="601" alt="PCB" src="https://github.com/user-attachments/assets/18a80013-7b9f-48f3-9387-d6ea8e479def" />
+
+~ a-hungrybookworm
+
+23/07/2026
+
 # Back to the Schematic
 
 ## 7.00 p.m.
@@ -9,7 +28,7 @@ The schematic is now fully edited for easy routing! I had to juggle the switches
 
 <img width="1250" height="622" alt="Schematic_last" src="https://github.com/user-attachments/assets/24ded6d7-3b98-430b-9d62-03dcf89b57ae" />
 
-I've made the PCB using a custom grid, and after a lot of dragging stuff and aligning it (to 1/8th of a unit), it looks like this - 
+I've made the PCB using a custom grid of (2.38u x 2.38u), that is, 1/8 of a unit in millimetre (19.05mm). After a lot of dragging stuff and aligning it, it looks like this - 
 
  <img width="1889" height="587" alt="PCB" src="https://github.com/user-attachments/assets/5021acbe-0c32-4f3f-9bf3-9fda3bf17ae2" />
 
