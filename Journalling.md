@@ -1,3 +1,23 @@
+# Routing
+
+## 11.00 a.m.
+
+Beginning the routing!
+
+## 12.30 p.m.
+
+I'm finally done! I've routed the columns on the front copper layer, and the diode connections & rows on the bottom copper layer. There was a bit of trouble with the DRC, but I finally got the 53 initial errors down to 1 warning, by adjusting the settings for an 'Exposed Copper Keep Out' area, and just moving the components around. I haven't added any ground pours, as it seems a bit unnecessary, and I don't even have a GND net. I've added mounting holes though, and my Pico USB port will hang off the PCB.
+
+ <img width="1219" height="444" alt="Routed" src="https://github.com/user-attachments/assets/b0076d37-0862-4ace-8045-c0773ef839b3" />
+
+I generated the gerbers and drill files, and now I've added them to the repo.
+
+All set for the 3D design!
+
+~a-hungrybookworm
+
+24/07/2026
+
 # Final Touches 
 
 ## 5.30 p.m.
