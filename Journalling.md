@@ -1,3 +1,29 @@
+# 3D Model
+
+## 12.00 p.m.
+
+I figured out my PCB doesn't have 3D models for the switches and stabilisers! I'm seraching them up now on GrabCAD...
+
+## 1.30 p.m.
+
+I'm finally done with adding the switches. The marbastlib footprint disappeared, so I couldn't update it, and I had to manually add the Cherry MX 3D model I found to each switch. ;(
+
+<img width="1076" height="416" alt="Screenshot 2026-08-15 at 4 32 08 PM" src="https://github.com/user-attachments/assets/c79a7895-b321-4e7d-879f-9ef8f757bc20" />
+
+After a lot of rotating the switch and moving it in each axis, the PCB looks like this... Adding the keycaps and stabs now.
+
+## 2.30 p.m.
+
+I couldn't rly find long keycaps, so I've put the short ones for now.
+
+<im width="1017" height="386" alt="Screenshot 2026-08-15 at 4 46 26 PM" src="https://github.com/user-attachments/assets/c1517099-20e7-46ea-a8f9-8d37aa9bbc77" />
+
+Anyway I'll start the 3D design.
+
+~ a-hungrybookworm
+
+15/08/2026
+
 # Routing
 
 ## 11.00 a.m.
