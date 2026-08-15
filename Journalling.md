@@ -16,7 +16,7 @@ After a lot of rotating the switch and moving it in each axis, the PCB looks lik
 
 I couldn't rly find long keycaps, so I've put the short ones for now.
 
-<im width="1017" height="386" alt="Screenshot 2026-08-15 at 4 46 26 PM" src="https://github.com/user-attachments/assets/c1517099-20e7-46ea-a8f9-8d37aa9bbc77" />
+<img width="1017" height="386" alt="Screenshot 2026-08-15 at 4 46 26 PM" src="https://github.com/user-attachments/assets/c1517099-20e7-46ea-a8f9-8d37aa9bbc77" />
 
 Anyway I'll start the 3D design.
 
