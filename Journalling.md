@@ -1,3 +1,27 @@
+# Finishing the 3D Design
+
+## Total time spent : 10 hours
+
+I *did* spend a lot of time on this, but it's my first time using Onshape, or 3D designing anything much.
+
+I'm using a sandwich mount, with a top part, plate and case all screwed together, and the plate screwed to the PCB. It might turn out a little stiff, but I don't really mind, as this mounting style was easy to design and will use less screws altogether >_<. 
+
+I'm using 8 M3s with heat set inserts, and 4 M4s for the plate to PCB. The plate to PCB screws aren't necessary, but I'm scared that the PCB will rattle in the case, or that the switches will wobble, so I put the holes in there just in case.
+
+For the top of the plate, I downloaded a dxf drawing from Keyboard Layout Editor NG, where I designed my keyboard. It included the holes for stabilisers too, and that was really helpful. 
+
+I also had to split the case, as it was more than 300mm wide, so I designed a tongue-and-groove joint between the parts. For the plate, which was too thin, I put a sliding-groove-thingy - I'm not really sure if it has a specific name.
+
+<img width="1489" height="626" alt="3D model" src="https://github.com/user-attachments/assets/23947c4f-83f6-48d5-a634-9b7622ef806d" />
+
+^ I couldn't find models for the longer keycaps, or the stabilisers, but their measurements are included in the design, so hopefully it's okay.
+
+Firmware!
+
+~a-hungrybookworm
+
+24/08/2026
+
 # 3D Model
 
 ## 12.00 p.m.
@@ -65,8 +89,7 @@ Updated schematic and pcb layout.
 
 # Back to the Schematic
 
-## 7.00 p.m.
-
+## 7.00 p.m
 
 Hopefully this is the last PCB entry :)
 
