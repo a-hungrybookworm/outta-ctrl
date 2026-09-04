@@ -1,3 +1,13 @@
+# Writing Firmware
+
+## Total time spent: 2 hours
+
+I've used RMK firmware, and I wrote it using GitHub actions (I don't know how to code in Rust!). It was pretty easy, as I kept the extra functions to a minimum.
+
+~a-hungrybookworm
+
+04/09/2026
+
 # Finishing the 3D Design
 
 ## Total time spent : 10 hours
