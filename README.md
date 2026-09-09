@@ -86,18 +86,20 @@ __Assembly__:
 ## Files
 The PCB fabrication files can be accessed at [Gerbers](https://github.com/a-hungrybookworm/outta-ctrl/tree/main/PCB_Fabrication), and the Onshape document at [3D-Design](https://cad.onshape.com/documents/6f7a7e00666188f7ad4cf98b/w/f1435142402e02a68e5f24dd/e/d5e9a1b6849998dde5a38184)
 
-## BOM
-| SI No. | Name | Notes | Quantity | Price Per Unit | Total | Running Total | Price/Unit (USD) | Total (USD) | Running Total (USD) | Link |
+## Bill of Materials
+
+| SI No. | Name | Notes | Quantity | Price Per Unit | Total | Running Total | Price/Unit(USD) | Total (USD) | Running Total (USD) | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Keygeek x MZ Y1 Keyboard Switch (Pack of 10) | MX-compatible Switches | 7 | 300 | 2100 | 2100 | 3.16 | 22.11 | 22.11 | [Switch](http://stackskb.com/store/keygeek-y1-keyboard-switch/) |
-| 2 | PCB (Robu) | 5 is the min. order quantity | 5 | 1062 | 5310 | 7410 | 11.18 | 55.89 | 78.00 | [PCB_Robu](https://github.com/a-hungrybookworm/outta-ctrl/blob/main/BOM/PCB%20Order.png) |
+| 2 | PCB (manufactured by Robu) | Manufactured by Robu | 5 | 1062 | 5310 | 7410 | 11.18 | 55.89 | 78 | [PCB_Robu](https://github.com/a-hungrybookworm/outta-ctrl/blob/main/BOM/PCB%20Order.png) |
 | 3 | Durock Clear Screw-In Stabilizers V2 | Screw-in stabilisers | 1 | 1650 | 1650 | 9060 | 17.37 | 17.37 | 95.37 | [Stabs](http://stackskb.com/store/durock-clear-screw-in-stabilizers-v2/) |
 | 4 | Gateron Hotswap Sockets | Hotswap Sockets | 64 | 10 | 640 | 9700 | 0.11 | 6.74 | 102.11 | [Hotswap Switches](http://stackskb.com/store/gateron-hotswap-sockets/) |
-| 5 | 1N4148 Diodes | Pack of 100, TH | 1 | 180 | 180 | 9880 | 1.89 | 1.89 | 104.00 | [Diodes](https://www.flipkart.com/elph-zener-diode-1n4148-pieces-100-electronic-components-hobby-kit/p/itmff7b2uhf4yng4) |
-| 6 | Raspberry Pi Pico | MCU | 1 | 384 | 384 | 10264 | 4.04 | 4.04 | 108.04 | [Pico](https://robu.in/product/raspberry-pi-pico/?gad_source=4&gad_campaignid=19974686076&gbraid=0AAAAADvLFWdAl5Wi83k9ojkIRV64IGicN&gclid=Cj0KCQjw2OnUBhC2ARIsACKyfaE3Ny_Zh17xOpxe-m0kUq52dTaldignAKoolyYla7WaLtCoqZ6H4d4aAi2KEALw_wcB) |
+| 5 | 1N4148 Diodes | Pack of 100, TH | 1 | 180 | 180 | 9880 | 1.89 | 1.89 | 104 | [Diodes](https://www.flipkart.com/elph-zener-diode-1n4148-pieces-100-electronic-components-hobby-kit/p/itmff7b2uhf4yng4) |
+| 6 | Raspberry Pi Pico | MCU | 1 | 384 | 384 | 10264 | 4.04 | 4.04 | 108.04 | [Pico](https://robu.in/product/raspberry-pi-pico/) |
 | 7 | Heat Set Threaded Round Female Insert Nut | M3, pack of 5 | 2 | 15 | 30 | 10294 | 0.16 | 0.32 | 108.36 | [Heat Set Insert](https://makerbazar.in/products/brass-heat-set-threaded-round-female-insert-nut?variant=48339035554032) |
 | 8 | Philips Head Nuts & Bolts Set | M3, pack of 10 | 1 | 25 | 25 | 10319 | 0.26 | 0.26 | 108.62 | [Screws](https://makerbazar.in/products/philips-head-nuts-bolts-set-silver-plated-pack-of-10?variant=43604554383600) |
 | 9 | Blank White Cherry Profile Keycaps | For later customization | 1 | 1000 | 1000 | 11319 | 10.53 | 10.53 | 119.15 | [Keycaps](https://stackskb.com/store/stackspbt-blank-white-cherry-profile-keycaps-113-key/) |
+| 10 | 7u Spacebar | Custom key | 1 | 300 | 300 | 11619 | 3.16 | 3.16 | 122.31 | [Spacebar](https://curiositycaps.in/products/7u-spacebar-replacement-key) |
 
 ## Credits
 This project was made possible through open-source hardware and design resources, and continuous support from the mechanical keyboard community. A special thank-you to the Hackclub YSWS Keeb, for inspiring me to take up this project and helping me at every step of this onerous journey.
