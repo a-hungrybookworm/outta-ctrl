@@ -1,18 +1,16 @@
-# outta-ctrl
+# Outta-Ctrl
 
-A 64-key linear mechanical keyboard, custom designed from the PCB to the keycaps.
+A custom 64-key linear mechanical keyboard designed from scratch, including a custom PCB, case, firmware, and even keycaps. 
+
+The design is literally outta control, and well, I use Apple anyway :).
 
 ## Features
-* Custom 64-key PCB, case
-* Custom firmware flashing
-* Hotswap sockets
+* Custom PCB & layout
+* 3D-designed two-piece sandwich-mount case
+* Custom RMK firmware
+* Hotswappable MX-compatible switches
+* Screw-in stabilisers
 * Custom keycaps
-
-## Why I built it
-I've always been fascinated by those fancy, raised, clackety keyboards - and when I saw a HackClub programme offering to teach me how to build one, I was thrilled. I finally had the opportunity to learn how keyboards work (you know, one of those questions that keep you awake at night), and make my very own custom one, with the keys I like, and with custom keycaps I get to doodle on.
-
-## Design Process
-I first had to design a 64-key layout for my keyboard, and plan the components I would be using. I then designed the PCB in KiCAD - first adding and connecting the correct footprints on the schematic, then arranging and routing the traces. I then designed a case (sandwich mount) on Onshape, for easy disassembly and assembly. Finally, I wrote the RMK firmware, which I will flash to my keyboard.
 
 ## Components 
 * Custom PCB
@@ -24,22 +22,35 @@ I first had to design a 64-key layout for my keyboard, and plan the components I
 * Clear screw-in stabilizers
 * Blank white (soon-to-be-doodled-on) keycaps
 
-## Files
-The PCB fabrication files can be accessed at [Gerbers](https://github.com/a-hungrybookworm/outta-ctrl/tree/main/PCB_Fabrication), and the Onshape document at [3D-Design](https://cad.onshape.com/documents/6f7a7e00666188f7ad4cf98b/w/f1435142402e02a68e5f24dd/e/d5e9a1b6849998dde5a38184)
+## Design Process
+Initially, I planned the 64-key layout for my keyboard, and decided which components I would use. 
 
-## What I learnt
-I started this ambitious project with no experience at all, and only a list of tutorials (credit to keeb.hackclub.com). Now, I've learnt so much, such as - (I've arranged it sequentially)
-* how Github repositories function
-* how to write a readme, or markdown
-* how to design a PCB
-* the layout/schematic required for keyboards
-* how to 3D design (in Onshape)
-* the different keyboard mounting styles, and parts of a case
-* what keyboard firmware does, and how to write it
-* a lot of nerdy info on different keyboard components
+I then designed the PCB in KiCAD. I initially figured out which libraries/ footprints to use, connected them to form the keyboard matrix (row-to-col) and finally arranged the components and routed the traces.
+
+Next, I learnt how to 3D model in Onshape, while simultaneously modelling the case. I used a sandwich mount for its simplicity, and split the case into 2 mutually screwable sections, as it was too big for the bed size. This will help in easy assembly and disassembly.
+
+Finally, I wrote the RMK firmware, which I will flash to my Pi Pico to control the keyboard.
+
+## Why I built it
+I've always been fascinated by the mechanical rigour and beauty of engineering, and I've been obssessed with understanding how most everyday objects work. When I saw a HackClub programme offering to teach me how to build one of those everyday objects, a keyboard, I was thrilled. Finally, I had the opportunity to learn how to design keyboard PCBs, model their cases, write their custom firmware, and deeply understand how these devices function.
 
 ## Challenges
-I faced several minor issues while designing the keyboard, such as finding footprints/ 3D models for my components, and especially finding keycaps for my design sizes. Anticipating the challenges I'm going to face while building the keyboard, though, I think I'll fill this part later.
+While designing the keyboard, I found several tasks challenging, such as
+* understanding the specifications and limitations of the different components
+* accounting for all the specific holes and features of the components while designing the 3D models
+* finding footprints/ 3D models for my components
+* finding keycaps for my design size
+
+## What I learnt
+I started this ambitious project with no experience at all, and only a list of tutorials (credit to [Keeb](keeb.hackclub.com)). Now, I've learnt so much, including (sequentially) - 
+* how Github repositories function 
+* how to write in Markdown, abd how to write a *Readme.md*
+* how to design a PCB in KiCAD
+* the matrix layout/schematic required for keyboard PCBs
+* how to use Onshape for 3D designing
+* the different keyboard mounting styles, and parts of a case
+* what keyboard firmware does, and how to write it
+* about different keyboard components, and their functions
 
 ## Images 
 
@@ -52,7 +63,7 @@ __Routed PCB__:
 
  <img width="1219" height="444" alt="Routed" src="https://github.com/user-attachments/assets/b0076d37-0862-4ace-8045-c0773ef839b3" />
 
-*3D Models:* 
+**3D Models:**
 
  __Top(Case)__:
  
@@ -68,9 +79,12 @@ __Routed PCB__:
 
 __Assembly__:
 
-*(without all keycaps/ stabs)*
+(without all keycaps/ stabs)
 
 <img width="1537" height="630" alt="Assembly" src="https://github.com/user-attachments/assets/e9bf28a7-8f30-4788-9347-7950a1667eee" />
+
+## Files
+The PCB fabrication files can be accessed at [Gerbers](https://github.com/a-hungrybookworm/outta-ctrl/tree/main/PCB_Fabrication), and the Onshape document at [3D-Design](https://cad.onshape.com/documents/6f7a7e00666188f7ad4cf98b/w/f1435142402e02a68e5f24dd/e/d5e9a1b6849998dde5a38184)
 
 ## BOM
 | SI No. | Name | Notes | Quantity | Price Per Unit | Total | Running Total | Price/Unit (USD) | Total (USD) | Running Total (USD) | Link |
@@ -86,4 +100,4 @@ __Assembly__:
 | 9 | Blank White Cherry Profile Keycaps | For later customization | 1 | 1000 | 1000 | 11319 | 10.53 | 10.53 | 119.15 | [Keycaps](https://stackskb.com/store/stackspbt-blank-white-cherry-profile-keycaps-113-key/) |
 
 ## Credits
-This project was made possible by a multitude of open-source hardware, and design resources, and continuous support from the mechanical keyboard community. A special thank-you to the Hackclub YSWS Keeb, for inspiring me to take up this project and helping me throughout the process.
+This project was made possible through open-source hardware and design resources, and continuous support from the mechanical keyboard community. A special thank-you to the Hackclub YSWS Keeb, for inspiring me to take up this project and helping me at every step of this onerous journey.
