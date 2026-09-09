@@ -13,4 +13,3 @@
 | 9 | Blank White Cherry Profile Keycaps | For later customization | 1 | 1000 | 1000 | 11319 | 10.53 | 10.53 | 119.15 | [Keycaps](https://stackskb.com/store/stackspbt-blank-white-cherry-profile-keycaps-113-key/) |
 | 10 | 7u Spacebar | Custom key | 1 | 300 | 300 | 11619 | 3.16 | 3.16 | 122.31 | [Spacebar](https://curiositycaps.in/products/7u-spacebar-replacement-key?srsltid=AfmBOopoxp22bEjsUcpWWLsW55NpsmDEuxnlvxDN_pIq9pAdCd8eAK9L) |
 
-**Grand total:** ₹11,619 / $122.31
