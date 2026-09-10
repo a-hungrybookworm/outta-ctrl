@@ -1,12 +1,12 @@
 # Outta-Ctrl
 
-A custom 64-key linear mechanical keyboard designed from scratch, including a custom PCB, case, firmware, and even keycaps. 
+A custom 64-key linear mechanical keyboard designed from scratch - including a custom PCB, case, firmware, and even keycaps. 
 
-The design is literally outta control, and well, I use Apple anyway :).
+<img width="1537" height="630" alt="__" src="https://github.com/user-attachments/assets/ef7ff690-19a9-4dea-931b-8e4d6d028068" />
 
 ## Features
 * Custom PCB & layout
-* 3D-designed two-piece sandwich-mount case
+* 3D designed sandwich-mount case
 * Custom RMK firmware
 * Hotswappable MX-compatible switches
 * Screw-in stabilisers
@@ -27,12 +27,12 @@ Initially, I planned the 64-key layout for my keyboard, and decided which compon
 
 I then designed the PCB in KiCAD. I initially figured out which libraries/ footprints to use, connected them to form the keyboard matrix (row-to-col) and finally arranged the components and routed the traces.
 
-Next, I learnt how to 3D model in Onshape, while simultaneously modelling the case. I used a sandwich mount for its simplicity, and split the case into 2 mutually screwable sections, as it was too big for the bed size. This will help in easy assembly and disassembly.
+Next, I learnt how to 3D model in Onshape, while simultaneously modelling the case. I used a sandwich mount for its simplicity, and split the case into two mutually screwable sections, as it was too big for the bed size. This will help in easy assembly and disassembly.
 
 Finally, I wrote the RMK firmware, which I will flash to my Pi Pico to control the keyboard.
 
 ## Why I built it
-I've always been fascinated by the mechanical rigour and beauty of engineering, and I've been obssessed with understanding how most everyday objects work. When I saw a HackClub programme offering to teach me how to build one of those everyday objects, a keyboard, I was thrilled. Finally, I had the opportunity to learn how to design keyboard PCBs, model their cases, write their custom firmware, and deeply understand how these devices function.
+I've been fascinated by understanding how most everyday objects work, and when I saw a HackClub programme offering to teach me how to build one of them, a keyboard, I was thrilled. Finally, I had the opportunity to learn how to design keyboard PCBs, model their cases, write their custom firmware, and deeply understand how these devices function.
 
 ## Challenges
 While designing the keyboard, I found several tasks challenging, such as
@@ -44,7 +44,7 @@ While designing the keyboard, I found several tasks challenging, such as
 ## What I learnt
 I started this ambitious project with no experience at all, and only a list of tutorials (credit to [Keeb](keeb.hackclub.com)). Now, I've learnt so much, including (sequentially) - 
 * how Github repositories function 
-* how to write in Markdown, abd how to write a *Readme.md*
+* how to write in Markdown, and how to write a readme
 * how to design a PCB in KiCAD
 * the matrix layout/schematic required for keyboard PCBs
 * how to use Onshape for 3D designing
@@ -83,9 +83,6 @@ __Assembly__:
 
 <img width="1537" height="630" alt="Assembly" src="https://github.com/user-attachments/assets/e9bf28a7-8f30-4788-9347-7950a1667eee" />
 
-## Files
-The PCB fabrication files can be accessed at [Gerbers](https://github.com/a-hungrybookworm/outta-ctrl/tree/main/PCB_Fabrication), and the Onshape document at [3D-Design](https://cad.onshape.com/documents/6f7a7e00666188f7ad4cf98b/w/f1435142402e02a68e5f24dd/e/d5e9a1b6849998dde5a38184)
-
 ## Bill of Materials
 
 | SI No. | Name | Notes | Quantity | Price Per Unit | Total | Running Total | Price/Unit(USD) | Total (USD) | Running Total (USD) | Link |
@@ -102,4 +99,4 @@ The PCB fabrication files can be accessed at [Gerbers](https://github.com/a-hung
 | 10 | 7u Spacebar | Custom key | 1 | 300 | 300 | 11619 | 3.16 | 3.16 | 122.31 | [Spacebar](https://curiositycaps.in/products/7u-spacebar-replacement-key) |
 
 ## Credits
-This project was made possible through open-source hardware and design resources, and continuous support from the mechanical keyboard community. A special thank-you to the Hackclub YSWS Keeb, for inspiring me to take up this project and helping me at every step of this onerous journey.
+This project was made possible through open-source hardware and design resources, and continuous support from the mechanical keyboard community. A special thank-you to the Hackclub YSWS Keeb, for inspiring me to take up this project, guiding me along the way, and most importantly, funding this project.
