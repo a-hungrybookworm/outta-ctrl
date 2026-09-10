@@ -1,4 +1,4 @@
-# Writing the BOM 
+# Writing the BOM & Readme
 
 ## Total time spent: 5.5 hours
 
