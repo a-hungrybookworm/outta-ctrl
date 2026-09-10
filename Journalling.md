@@ -1,6 +1,6 @@
-# Writing the BOM and Readme
+# Writing the BOM 
 
-## Total time spent: 4 hours
+## Total time spent: 5.5 hours
 
 ## 5.30 p.m.
 
@@ -12,6 +12,13 @@ I'm using linear Keygeek x MZ Y1 switches, fixed in hotswap sockets for ease of 
 
 Done with the BOM - I didn't include 3D model costs as that would make it too expensive... now doing the readme.
 
+## 11.00 p.m.
+
+Done with the readme... submitting!
+
+~a-hungrybookworm
+
+09/09/2026
 
 # Writing Firmware
 
