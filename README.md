@@ -27,7 +27,7 @@ Initially, I planned the 64-key layout for my keyboard, and decided which compon
 
 I then designed the PCB in KiCAD. I initially figured out which libraries/ footprints to use, connected them to form the keyboard matrix (row-to-col) and finally arranged the components and routed the traces.
 
-Next, I learnt how to 3D model in Onshape, while simultaneously modelling the case. I used a sandwich mount for its simplicity, and split the case into two mutually screwable sections, as it was too big for the bed size. This will help in easy assembly and disassembly.
+Next, I learnt how to 3D model in Onshape, while simultaneously modelling the [case](https://cad.onshape.com/documents/6f7a7e00666188f7ad4cf98b/w/f1435142402e02a68e5f24dd/e/d5e9a1b6849998dde5a38184). I used a sandwich mount for its simplicity, and split the case into two mutually screwable sections, as it was too big for the bed size. This will help in easy assembly and disassembly.
 
 Finally, I wrote the RMK firmware, which I will flash to my Pi Pico to control the keyboard.
 
