@@ -79,20 +79,24 @@ __Assembly__:
 
 <img width="1302" height="552" alt="Assembly" src="https://github.com/user-attachments/assets/de8ac19b-dd45-41ae-b490-16fe86362277" />
 
-## Bill of Materials
+## Bill of Materials (BOM)
 
-| SI No. | Name | Notes | Quantity | Price Per Unit | Total | Running Total | Price/Unit(USD) | Total (USD) | Running Total (USD) | Link |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Keygeek x MZ Y1 Keyboard Switch (Pack of 10) | MX-compatible Switches | 7 | 300 | 2100 | 2100 | 3.16 | 22.11 | 22.11 | [Switch](http://stackskb.com/store/keygeek-y1-keyboard-switch/) |
-| 2 | PCB (manufactured by Robu) | Manufactured by Robu | 5 | 1062 | 5310 | 7410 | 11.18 | 55.89 | 78 | [PCB_Robu](https://github.com/a-hungrybookworm/outta-ctrl/blob/main/BOM/PCB%20Order.png) |
-| 3 | Durock Clear Screw-In Stabilizers V2 | Screw-in stabilisers | 1 | 1650 | 1650 | 9060 | 17.37 | 17.37 | 95.37 | [Stabs](http://stackskb.com/store/durock-clear-screw-in-stabilizers-v2/) |
-| 4 | Gateron Hotswap Sockets | Hotswap Sockets | 64 | 10 | 640 | 9700 | 0.11 | 6.74 | 102.11 | [Hotswap Switches](http://stackskb.com/store/gateron-hotswap-sockets/) |
-| 5 | 1N4148 Diodes | Pack of 100, TH | 1 | 180 | 180 | 9880 | 1.89 | 1.89 | 104 | [Diodes](https://www.flipkart.com/elph-zener-diode-1n4148-pieces-100-electronic-components-hobby-kit/p/itmff7b2uhf4yng4) |
-| 6 | Raspberry Pi Pico | MCU | 1 | 384 | 384 | 10264 | 4.04 | 4.04 | 108.04 | [Pico](https://robu.in/product/raspberry-pi-pico/) |
-| 7 | Heat Set Threaded Round Female Insert Nut | M3, pack of 5 | 2 | 15 | 30 | 10294 | 0.16 | 0.32 | 108.36 | [Heat Set Insert](https://makerbazar.in/products/brass-heat-set-threaded-round-female-insert-nut?variant=48339035554032) |
-| 8 | Philips Head Nuts & Bolts Set | M3, pack of 10 | 1 | 25 | 25 | 10319 | 0.26 | 0.26 | 108.62 | [Screws](https://makerbazar.in/products/philips-head-nuts-bolts-set-silver-plated-pack-of-10?variant=43604554383600) |
-| 9 | Blank White Cherry Profile Keycaps | For later customization | 1 | 1000 | 1000 | 11319 | 10.53 | 10.53 | 119.15 | [Keycaps](https://stackskb.com/store/stackspbt-blank-white-cherry-profile-keycaps-113-key/) |
-| 10 | 7u Spacebar | Custom key | 1 | 300 | 300 | 11619 | 3.16 | 3.16 | 122.31 | [Spacebar](https://curiositycaps.in/products/7u-spacebar-replacement-key) |
+| SI No. | Name | Notes | Quantity | Price / Unit (INR) | Shipping (INR) | Total (INR) | Running Total (INR) | Price/Unit (USD) | Total (USD) | Running Total (USD) | Link | Vendor |
+| --- | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- |
+| 1 | Gateron G Pro 3.0 Brown Tactile Switches (Pack of 10) | MX-compatible Switches | 7 | 190 | 0 | 1330 | 1330 | 2.02 | 14.15 | 14.15 | [Switch](https://stackskb.com/store/gateron-g-pro-3-0-brown-ks-9-tactile-switch-pack-of-10/) | StacksKB |
+| 2 | PCB (manufactured by Robu) | Manufactured by Robu | 5 | 1066 | 0 | 5330 | 6660 | 11.34 | 56.70 | 70.85 | [PCB_Robu](https://github.com/a-hungrybookworm/outta-ctrl/blob/main/BOM/PCB%20Order.png) | Robu |
+| 3 | Durock Clear Screw-In Stabilizers V2 | Screw-in stabilisers | 1 | 1650 | 0 | 1650 | 8310 | 17.55 | 17.55 | 88.40 | [Stabs](https://stackskb.com/store/durock-clear-screw-in-stabilizers-v2/) | StacksKB |
+| 5 | 1N4148 Diodes | Keyboard matrix | 65 | 1.07 | 49 | 118.55 | 8428.55 | 0.01 | 1.26 | 89.67 | [Diodes](https://robu.in/product/1n4148-onsemi-100v-1v10ma-4ns-200ma-do-35-switching-diodes-rohs/) | Robu |
+| 6 | Raspberry Pi Pico | MCU | 1 | 384 | 0 | 384 | 8812.55 | 4.09 | 4.09 | 93.75 | [Pico](https://robu.in/product/raspberry-pi-pico/) | Robu |
+| 7 | Heat Set Threaded Round Female Insert Nut | M3x6mm, pack of 5 | 2 | 15 | 60 | 90 | 8902.55 | 0.16 | 0.96 | 94.71 | [Heat Set Insert](https://makerbazar.in/products/brass-heat-set-threaded-round-female-insert-nut?variant=48339035554032) | Makerbazar |
+| 8 | M3 X 10mm Phillips Pan head SS 304 Screw | M3x10mm | 8 | 1.80 | 69 | 83.40 | 8985.95 | 0.02 | 0.89 | 95.60 | [Screws](https://onlyscrews.in/products/phillips-pan-head-m3-x-10mm-pack-of-20?currency=INR&country=IN&variant=48468583874873) | Only Screws |
+| 9 | Blank White Cherry Profile Keycaps | For later customization | 1 | 1000 | 0 | 1000 | 9985.95 | 10.64 | 10.64 | 106.23 | [Keycaps](https://stackskb.com/store/stackspbt-blank-white-cherry-profile-keycaps-113-key/) | StacksKB |
+| 10 | 7u Spacebar | Custom key | 1 | 300 | 0 | 300 | 10285.95 | 3.19 | 3.19 | 109.43 | [Spacebar](https://curiositycaps.in/products/7u-spacebar-replacement-key) | CuriosityCaps |
+| 11 | 3D Print | Case! | 1 | 1333.86 | 100 | 1433.86 | 11719.81 | 14.19 | 15.25 | 124.68 |  | Printing Legion |
+|  | **Total (with shipping)** |  |  |  |  |  |  |  |  | **124.68** |  |  |
+
+**Exchange rate used:** ₹94 ≈ $1  
+**Grand total:** ₹11,719.81 / **$124.68**
 
 ## Credits
 This project was made possible through open-source hardware and design resources, and continuous support from the mechanical keyboard community. A special thank-you to the Hackclub YSWS Keeb, for inspiring me to take up this project, guiding me along the way, and most importantly, funding this project.
