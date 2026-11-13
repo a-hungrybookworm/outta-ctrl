@@ -193,6 +193,9 @@ I'll do the routing tomorrow.
 
 
 # Setting Up
+
+## Total time spent (on the project): 0 hours
+
 This is my first Hackclub project!
 
 I've set up Hackatime, and I've been going through the (really long) Slack chats in #keeb. This is also like my first time using Github - and I'm still learning about repos, commits, pull requests and all the other stuff. 
