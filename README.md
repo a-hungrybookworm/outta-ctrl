@@ -84,19 +84,19 @@ __Assembly__:
 | SI No. | Name | Notes | Quantity | Price / Unit (INR) | Shipping (INR) | Total (INR) | Running Total (INR) | Price/Unit (USD) | Total (USD) | Running Total (USD) | Link | Vendor |
 | --- | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- |
 | 1 | Gateron G Pro 3.0 Brown Tactile Switches (Pack of 10) | MX-compatible Switches | 7 | 190 | 0 | 1330 | 1330 | 2.02 | 14.15 | 14.15 | [Switch](https://stackskb.com/store/gateron-g-pro-3-0-brown-ks-9-tactile-switch-pack-of-10/) | StacksKB |
-| 2 | PCB | Manufactured by Robu | 5 | 1066.60 | 0 | 5333 | 6663 | 11.35 | 56.73 | 70.88 | [PCB_Robu](https://github.com/a-hungrybookworm/outta-ctrl/blob/main/BOM/PCB_Quote.png) | Robu |
+| 2 | PCB (manufactured by Robu) | Manufactured by Robu | 5 | 1066.60 | 0 | 5333 | 6663 | 11.35 | 56.73 | 70.88 | [PCB_Robu](https://github.com/a-hungrybookworm/outta-ctrl/blob/main/BOM/PCB_Quote.png) | Robu |
 | 3 | Durock Clear Screw-In Stabilizers V2 | Screw-in stabilisers | 1 | 1650 | 0 | 1650 | 8313 | 17.55 | 17.55 | 88.44 | [Stabs](https://stackskb.com/store/durock-clear-screw-in-stabilizers-v2/) | StacksKB |
-| 4 | 1N4148 Diodes | Keyboard matrix | 65 | 1.07 | 49 | 118.55 | 8431.55 | 0.01 | 1.26 | 89.70 | [Diodes](https://robu.in/product/1n4148-onsemi-100v-1v10ma-4ns-200ma-do-35-switching-diodes-rohs/) | Robu |
-| 5 | Raspberry Pi Pico | MCU | 1 | 384 | 0 | 384 | 8815.55 | 4.09 | 4.09 | 93.78 | [Pico](https://robu.in/product/raspberry-pi-pico/) | Robu |
-| 6 | Heat Set Threaded Round Female Insert Nut | M3x6mm, pack of 5 | 2 | 15 | 60 | 90 | 8905.55 | 0.16 | 0.96 | 94.74 | [Heat Set Insert](https://makerbazar.in/products/brass-heat-set-threaded-round-female-insert-nut?variant=48339035554032) | Makerbazar |
-| 7 | M3 X 10mm Phillips Pan head SS 304 Screw | M3x10mm | 8 | 1.80 | 69 | 83.40 | 8988.95 | 0.02 | 0.89 | 95.63 | [Screws](https://onlyscrews.in/products/phillips-pan-head-m3-x-10mm-pack-of-20?currency=INR&country=IN&variant=48468583874873) | Only Screws |
-| 8 | Blank White Cherry Profile Keycaps | For later customization | 1 | 1000 | 0 | 1000 | 9988.95 | 10.64 | 10.64 | 106.27 | [Keycaps](https://stackskb.com/store/stackspbt-blank-white-cherry-profile-keycaps-113-key/) | StacksKB |
-| 9 | 7u Spacebar | Custom key | 1 | 300 | 0 | 300 | 10288.95 | 3.19 | 3.19 | 109.46 | [Spacebar](https://curiositycaps.in/products/7u-spacebar-replacement-key) | CuriosityCaps |
-| 10 | 3D Print | Case! | 1 | 1333.86 | 100 | 1433.86 | 11722.81 | 14.19 | 15.25 | 124.71 | [3DP_Quote](https://github.com/a-hungrybookworm/outta-ctrl/blob/main/BOM/3D_Printing_Quote.png) | Printing Legion |
-|  | **Total (with shipping)** |  |  |  |  |  |  |  |  | **124.71** |  |  |
+| 4 | 1N4148 Diodes | Keyboard matrix | 65 | 1.07 | 49 | 118.55 | 8431.55 | 0.01 | 1.26 | 89.70 | [Diodes](https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/) | Robu |
+| 5 | Raspberry Pi Pico | MCU | 1 | 422 | 0 | 422 | 8853.55 | 4.49 | 4.49 | 94.19 | [Pico](https://robu.in/product/raspberry-pi-pico/) | Robu |
+| 6 | Brass Threaded Inserts | M3x6mm | 8 | 2.80 | 0 | 22.40 | 8875.95 | 0.03 | 0.24 | 94.43 | [Heat Set Insert](https://onlyscrews.in/products/m3-x-6mm-brass-threaded-inserts?variant=49418769203513) | OnlyScrews |
+| 7 | M3 X 10mm Phillips Pan head Screw | M3x10mm, shipping includes taxes | 8 | 0.66 | 73.98 | 79.26 | 8955.21 | 0.01 | 0.84 | 95.27 | [Screws](https://onlyscrews.in/products/m3-x-10mm-phillips-pan-head-mild-steel-with-zinc-blue-plating-screw-dia-3mm-length-10mm?variant=52636241887545) | OnlyScrews |
+| 8 | Blank White Cherry Profile Keycaps | For later customization | 1 | 1000 | 0 | 1000 | 9955.21 | 10.64 | 10.64 | 105.91 | [Keycaps](https://stackskb.com/store/stackspbt-blank-white-cherry-profile-keycaps-113-key/) | StacksKB |
+| 9 | 7u Spacebar | Custom key | 1 | 300 | 0 | 300 | 10255.21 | 3.19 | 3.19 | 109.10 | [Spacebar](https://curiositycaps.in/products/7u-spacebar-replacement-key) | CuriosityCaps |
+| 10 | 3D Print | Case! | 1 | 1333.86 | 100 | 1433.86 | 11689.07 | 14.19 | 15.25 | 124.35 | [3DP_Quote](https://github.com/a-hungrybookworm/outta-ctrl/blob/main/BOM/3D_Printing_Quote.png) | Printing Legion |
+|  | **Total (with shipping)** |  |  |  |  |  | **11689.07** |  |  | **124.35** |  |  |
 
 **Exchange rate used:** ₹94 ≈ $1  
-**Grand total:** ₹11,722.81 / **$124.71**
+**Grand total:** ₹11,689.07 / **$124.35**
 
 ## Credits
 This project was made possible through open-source hardware and design resources, and continuous support from the mechanical keyboard community. A special thank-you to the Hackclub YSWS Keeb, for inspiring me to take up this project, guiding me along the way, and most importantly, funding this project.
