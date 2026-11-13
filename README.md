@@ -1,24 +1,23 @@
 # Outta-Ctrl
 
-A custom 64-key linear mechanical keyboard designed from scratch - including a custom PCB, case, firmware, and even keycaps. 
+A custom 64-key tactile mechanical keyboard designed from scratch - including a custom PCB, case, firmware, and even keycaps. 
 
-<img width="1537" height="630" alt="__" src="https://github.com/user-attachments/assets/ef7ff690-19a9-4dea-931b-8e4d6d028068" />
+<img width="1377" height="540" alt="Header_image" src="https://github.com/user-attachments/assets/9b48e887-3c2d-4cf5-8812-c64728dcfff7" />
 
 ## Features
 * Custom PCB & layout
 * 3D designed sandwich-mount case
 * Custom RMK firmware
-* Hotswappable MX-compatible switches
+* Tactile MX-compatible switches
 * Screw-in stabilisers
 * Custom keycaps
 
 ## Components 
 * Custom PCB
 * 3D-printed case
-* MX-compatible switches
+* Tactile Gateron switches
 * 1N4148 diodes
 * Raspberry Pi Pico 
-* Hotswap sockets
 * Clear screw-in stabilizers
 * Blank white (soon-to-be-doodled-on) keycaps
 
@@ -27,7 +26,7 @@ Initially, I planned the 64-key layout for my keyboard, and decided which compon
 
 I then designed the PCB in KiCAD. I initially figured out which libraries/ footprints to use, connected them to form the keyboard matrix (row-to-col) and finally arranged the components and routed the traces.
 
-Next, I learnt how to 3D model in Onshape, while simultaneously modelling the [case](https://cad.onshape.com/documents/6f7a7e00666188f7ad4cf98b/w/f1435142402e02a68e5f24dd/e/d5e9a1b6849998dde5a38184). I used a sandwich mount for its simplicity, and split the case into two mutually screwable sections, as it was too big for the bed size. This will help in easy assembly and disassembly.
+Next, I learnt how to 3D model in Onshape, while simultaneously modelling the [case](https://cad.onshape.com/documents/6f7a7e00666188f7ad4cf98b/w/f1435142402e02a68e5f24dd/e/d5e9a1b6849998dde5a38184). I used a sandwich mount for its simplicity, but ended up removing the top (above the plate) to cut costs, and split the case as it was too big for the bed size. 
 
 Finally, I wrote the RMK firmware, which I will flash to my Pi Pico to control the keyboard.
 
@@ -65,23 +64,20 @@ __Routed PCB__:
 
 **3D Models:**
 
- __Top(Case)__:
- 
-<img width="1632" height="766" alt="Top" src="https://github.com/user-attachments/assets/1ab4260d-6302-4194-9b79-e992b298a52c" />
 
  __Plate__:
 
-<img width="1680" height="708" alt="Plate" src="https://github.com/user-attachments/assets/9d4ca010-05ea-421d-a86f-7c7712748721" />
+<img width="1354" height="545" alt="Plate" src="https://github.com/user-attachments/assets/b8aab294-1011-464b-ab19-800f72fbe7cd" />
 
  __Base__:
 
-<img width="1719" height="713" alt="Base" src="https://github.com/user-attachments/assets/144a5f8f-3c9c-460e-9547-a6692d863070" />
+<img width="1475" height="617" alt="Base" src="https://github.com/user-attachments/assets/868f2eb9-90bd-4c9d-a6be-6ae7c7365ebe" />
 
 __Assembly__:
 
 (without all keycaps/ stabs)
 
-<img width="1537" height="630" alt="Assembly" src="https://github.com/user-attachments/assets/e9bf28a7-8f30-4788-9347-7950a1667eee" />
+<img width="1302" height="552" alt="Assembly" src="https://github.com/user-attachments/assets/de8ac19b-dd45-41ae-b490-16fe86362277" />
 
 ## Bill of Materials
 
