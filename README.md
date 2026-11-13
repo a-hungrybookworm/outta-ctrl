@@ -84,7 +84,7 @@ __Assembly__:
 | SI No. | Name | Notes | Quantity | Price / Unit (INR) | Shipping (INR) | Total (INR) | Running Total (INR) | Price/Unit (USD) | Total (USD) | Running Total (USD) | Link | Vendor |
 | --- | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- |
 | 1 | Gateron G Pro 3.0 Brown Tactile Switches (Pack of 10) | MX-compatible Switches | 7 | 190 | 0 | 1330 | 1330 | 2.02 | 14.15 | 14.15 | [Switch](https://stackskb.com/store/gateron-g-pro-3-0-brown-ks-9-tactile-switch-pack-of-10/) | StacksKB |
-| 2 | PCB (manufactured by Robu) | Manufactured by Robu | 5 | 1066.60 | 0 | 5333 | 6663 | 11.35 | 56.73 | 70.88 | [PCB_Robu](https://github.com/a-hungrybookworm/outta-ctrl/blob/main/BOM/PCB_Quote.png) | Robu |
+| 2 | PCB | Manufactured by Robu | 5 | 1066.60 | 0 | 5333 | 6663 | 11.35 | 56.73 | 70.88 | [PCB_Robu](https://github.com/a-hungrybookworm/outta-ctrl/blob/main/BOM/PCB_Quote.png) | Robu |
 | 3 | Durock Clear Screw-In Stabilizers V2 | Screw-in stabilisers | 1 | 1650 | 0 | 1650 | 8313 | 17.55 | 17.55 | 88.44 | [Stabs](https://stackskb.com/store/durock-clear-screw-in-stabilizers-v2/) | StacksKB |
 | 4 | 1N4148 Diodes | Keyboard matrix | 65 | 1.07 | 49 | 118.55 | 8431.55 | 0.01 | 1.26 | 89.70 | [Diodes](https://robu.in/product/1n4148-onsemi-100v-1v10ma-4ns-200ma-do-35-switching-diodes-rohs/) | Robu |
 | 5 | Raspberry Pi Pico | MCU | 1 | 384 | 0 | 384 | 8815.55 | 4.09 | 4.09 | 93.78 | [Pico](https://robu.in/product/raspberry-pi-pico/) | Robu |
